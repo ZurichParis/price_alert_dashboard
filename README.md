@@ -34,7 +34,7 @@ Educational project for practicing Service Worker caching and notifications.
 
 ### Installation option 1
 ```bash
-git clone <https://github.com/ZurichParis/price_alert_dashboard.git>
+git clone https://github.com/ZurichParis/price_alert_dashboard.git
 cd price_alert_dashboard
 ```
 ```bash
@@ -48,7 +48,7 @@ The app will be available at `http://localhost:5173`
 
 ### Installation option 2
 ```bash
-git clone <https://github.com/ZurichParis/price_alert_dashboard.git>
+git clone https://github.com/ZurichParis/price_alert_dashboard.git
 cd price_alert_dashboard
 ```
 
