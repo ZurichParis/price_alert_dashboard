@@ -1,6 +1,7 @@
 # Cryptocurrency Dashboard
 
 This is a cryptocurrency dashboard that tracks the prices of various cryptocurrencies in real-time. It also provides historical data visualization and price alerts.
+
 <img src="https://uca8d88c65424d153fa290304ea5.dl.dropboxusercontent.com/cd/0/inline/CvUtJk_s_GJGcyF3adWIPren_wFpaWinhPiKp6-UMXEIfMMhycwCjYEQ37MUAJZQU6lUFxb67CnzN5NHA9Q3HUX2P0Lfg_u05nP4ZZ1rYYYdSgZoyVfvd4SpjnGKSfm8gxVt7qeVOxX4MuIifVSs11eR/file#" alt="Demo" width="600" height="800">
 
 ### Note
@@ -34,7 +35,7 @@ Educational project for practicing Service Worker caching and notifications.
 ### Installation option 1
 ```bash
 git clone <https://github.com/ZurichParis/price_alert_dashboard.git>
-cd crypto-dashboard
+cd price_alert_dashboard
 ```
 ```bash
 npm install
@@ -48,15 +49,15 @@ The app will be available at `http://localhost:5173`
 ### Installation option 2
 ```bash
 git clone <https://github.com/ZurichParis/price_alert_dashboard.git>
-cd crypto-dashboard
+cd price_alert_dashboard
 ```
 
 ```bash
-docker build -t crypto-dashboard .
+docker build -t price_alert_dashboard .
 ```
 
 ```bash
-docker run -d -p 8080:80 crypto-dashboard
+docker run -d -p 8080:80 price_alert_dashboard
 ```
 
 Access the app at `http://localhost:8080`
